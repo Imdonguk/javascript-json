@@ -65,7 +65,7 @@
 
 ------
 
-![](/Users/woogie/Desktop/arrayParser.jpg)
+![](image/arrayParser.jpg)
 
 1. *lexer를 통해 데이터를 분석한다 ex ) { type : number, value : 123, child : [ ] }*
 
