@@ -2,9 +2,9 @@
 
 ### Project review
 
-* [jsonParser Review](./arrayParser문서화.md)
+* [jsonParser Review](./docs/project_review.md)
 
 ### TestCode review
 
-* [testCode review](./testCode문서화.md)
+* [testCode review](./docs/testcode_review.md)
 
